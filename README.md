@@ -1,3 +1,18 @@
+<table>
+  <tr>
+    <td width="150">
+      <img src="https://lanino.jpg" width="150" style="border-radius: 50%">
+    </td>
+    <td>
+      <h1>👋 Ciao, sono Luca Rossi</h1>
+      <p>🎓 Studente di Informatica<br>
+      💻 Appassionato di C++, AI e tecnologie open-source<br>
+      📫 Contattami su <a href="https://lucarossi.dev">lucarossi.dev</a></p>
+    </td>
+  </tr>
+</table>
+
+<!--
 Hello Everyone !
 
 - 🪐My Main Purposes
