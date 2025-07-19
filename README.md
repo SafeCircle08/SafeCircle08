@@ -4,10 +4,12 @@
       <img src="lanino.png" width="300" style="border-radius: 50%">
     </td>
     <td>
-      <h1>👋 Ciao, sono Luca Rossi</h1>
-      <p>🎓 Studente di Informatica<br>
-      💻 Appassionato di C++, AI e tecnologie open-source<br>
-      📫 Contattami su <a href="https://lucarossi.dev">lucarossi.dev</a></p>
+      <h1>- 🪐My Main Purposes>
+      <p><>I'm SafeCircle, and I'm currently learning<br>
+         how to create games in the Game Maker Engine! (lol)<p>
+      <p>- ⚡Other Activities
+         <>I'm also learning C++ and I know how<br>
+           to use the FL Studio DAW (yeah i compose music sometimes)<p>
     </td>
   </tr>
 </table>
