@@ -1,43 +1,13 @@
-<table>
-  <tr>
-    <td width="150">
-      <img src="lanino.png" width="300" style="border-radius: 50%">
-    </td>
-    <td>
-      <h1>- 🪐My Main Purposes>
-      <p><>I'm SafeCircle, and I'm currently learning<br>
-         how to create games in the Game Maker Engine! (lol)<p>
-      <p>- ⚡Other Activities
-         <>I'm also learning C++ and I know how<br>
-           to use the FL Studio DAW (yeah i compose music sometimes)<p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm SafeCircle!</h1>
+<h3 align="center">Mainly working with the Game Maker Studio engine (lol)</h3>
 
-<!--
-Hello Everyone !
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/frisk_and_freddy_fazbear._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/frisk_and_freddy_fazbear._/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@jazzybeing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jazzybeing" height="30" width="40" /></a>
+</p>
 
-- 🪐My Main Purposes
-  <>I'm SafeCircle, and I'm currently leaarning 
-    how to create games in the Game Maker Engine; (lol)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-- ⚡Other Activities
-  <>Since I like to Develop games, I've also learned how to
-    use:
-   -FL Studio (to compose music);
-   -Aseprite (to create, and animate pixel arts);
-  
-- 🔭Hobbies
-  <>As hobbies, right now I'm learning C++ and sometimes
-    a bit of Assembly; (I'm going insane :>)
-  <>I even love Math and I'm learning how to play the Piano
-    (mostly Classic Music);
-  
-- 🎩Other [maybe useful] links:
-- 😄[My Instagram Page](https://www.instagram.com/frisk_and_freddy_fazbear._/)
-- 🕴️[My YouTube Channel](https://www.youtube.com/@jazzyBeing)
-
-- An Ending:
-  <>Now feel free to look up the things I did...
-    (haven't done anything interesting yet, buuuut...)
-    (you get the Idea :>)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safecircle08&show_icons=true&locale=en" alt="safecircle08" /></p>
