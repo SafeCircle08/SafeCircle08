@@ -1,16 +1,26 @@
-## Hi there 👋
+Hello Everyone !
 
-<!--
-**SafeCircle08/SafeCircle08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🪐My Main Purposes
+  <>I'm SafeCircle, and I'm currently leaarning 
+    how to create games in the Game Maker Engine; (lol)
 
-Here are some ideas to get you started:
+- ⚡Other Activities
+  <>Since I like to Develop games, I've also learned how to
+    use:
+   -FL Studio (to compose music);
+   -Aseprite (to create, and animate pixel arts);
+  
+- 🔭Hobbies
+  <>As hobbies, right now I'm learning C++ and sometimes
+    a bit of Assembly; (I'm going insane :>)
+  <>I even love Math and I'm learning how to play the Piano
+    (mostly Classic Music);
+  
+- 🎩Other [maybe useful] links:
+- 😄[My Instagram Page](https://www.instagram.com/frisk_and_freddy_fazbear._/)
+- 🕴️[My YouTube Channel](https://www.youtube.com/@jazzyBeing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- An Ending:
+  <>Now feel free to look up the things I did...
+    (haven't done anything interesting yet, buuuut...)
+    (you get the Idea :>)
