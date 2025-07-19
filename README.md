@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SafeCircle!</h1>
 <h3 align="center">Mainly working with the Game Maker Studio engine (lol)</h3>
 
-- 🎩 Other "skills" (can they be called like that?) **FL Studio, (a bit) C++, Playing Piano, Pixel Art**
+- 🎩 Other "skills" (can they be called like that?)<br> **FL Studio, (a bit) C++, Playing Piano, Pixel Art**
 
 - 🕴️ [REACH] me, [R1gHt] hERE ------> **zandonamichele@gmail.com**
 
