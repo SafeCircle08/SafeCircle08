@@ -19,7 +19,7 @@
     />
   </a>
   <!--------------------------------- YOUTUBE PAGE LINK ------------------------------->
-  <a href="[https://www.youtube.com/c/jazzybeing](https://www.youtube.com/@jazzyBeing)" target="blank">
+  <a href="https://www.youtube.com/@jazzyBeing" target="blank">
     <img 
       align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
