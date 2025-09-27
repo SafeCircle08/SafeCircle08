@@ -14,7 +14,7 @@
       align="center" 
       src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
       alt="frisk_and_freddy_fazbear._" 
-      height="40px" 
+      height="50px" 
       width="50px" 
     />
   </a>
@@ -24,8 +24,8 @@
       align="center" 
       src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" 
       alt="jazzybeing" 
-      height="40px" 
-      width="40px" 
+      height="50px" 
+      width="50px" 
     />
   </a>
 </p>
