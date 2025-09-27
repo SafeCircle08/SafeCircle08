@@ -65,7 +65,7 @@
       /> 
       <!--------------------------------- FL studio photo ------------------------------->
       <img 
-        src="https://upload.wikimedia.org/wikipedia/en/6/69/FL_Studio_11_just_logo.png" 
+        src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/FL-Studio-12-Logo.png/250px-FL-Studio-12-Logo.png" 
         alt="FL Studio" 
         height="50px" 
       /> 
