@@ -28,6 +28,16 @@
       width="50px" 
     />
   </a>
+    <!--------------------------------- REDDIT PAGE LINK ------------------------------->
+  <a href="https://www.reddit.com/user/SafeCircle_/" target="blank">
+    <img 
+      align="center" 
+      src="https://store-images.s-microsoft.com/image/apps.15970.14375561300249796.05fe8c27-ce9e-4144-8702-0e81e2f575b1.042364cb-b745-4796-a520-61291e2dd6b9" 
+      alt="jazzybeing" 
+      height="50px" 
+      width="50px" 
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
