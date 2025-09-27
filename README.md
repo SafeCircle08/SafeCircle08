@@ -40,25 +40,33 @@
   </a>
 </p>
 
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p float="left">
       <!------------------------------- cpp photo ------------------------------->
       <img 
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-        alt="cplusplus" 
+        alt="C++ Lenguage" 
         height="50px" 
       /> 
       <!--------------------------------- c photo ------------------------------->
       <img 
         src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" 
-        alt="c" 
+        alt="C Lenguage" 
         height="50px" 
       /> 
       <!--------------------------------- game maker photo ------------------------------->
       <img 
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReflYD3bP9E2XvdDCU-8Z42M30Q43YWQjYxg&s" 
-        alt="c" 
+        alt="GameMaker Studio 2" 
+        height="50px" 
+      /> 
+      <!--------------------------------- FL studio photo ------------------------------->
+      <img 
+        src="https://upload.wikimedia.org/wikipedia/en/6/69/FL_Studio_11_just_logo.png" 
+        alt="FL Studio" 
         height="50px" 
       /> 
 </p>
