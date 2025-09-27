@@ -33,32 +33,24 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p float="left">
-  
-  <!------------------------------- cpp photo ------------------------------->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-      alt="cplusplus" 
-      height="50px" 
-    /> 
-  </a>
-  <!--------------------------------- c photo ------------------------------->
-  <a href="http://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" 
-      alt="c" 
-      height="50px" 
-    /> 
-  </a>
-  <!--------------------------------- game maker photo ------------------------------->
-  <a href="http://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
+      <!------------------------------- cpp photo ------------------------------->
+      <img 
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+        alt="cplusplus" 
+        height="50px" 
+      /> 
+      <!--------------------------------- c photo ------------------------------->
+      <img 
+        src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" 
+        alt="c" 
+        height="50px" 
+      /> 
+      <!--------------------------------- game maker photo ------------------------------->
       <img 
         src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReflYD3bP9E2XvdDCU-8Z42M30Q43YWQjYxg&s" 
         alt="c" 
         height="50px" 
       /> 
-  </a>
-  
 </p>
 
 <p float="left">
