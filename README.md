@@ -15,7 +15,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=safecircle08&show_icons=true&locale=en" width="48%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=safecircle08&show_icons=true&locale=en&theme=tokyonight" width="48%" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safecircle08&layout=compact&theme=tokyonight" width="48%" height="200px"/>
 </p>
 
