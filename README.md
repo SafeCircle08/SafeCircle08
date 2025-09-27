@@ -1,4 +1,4 @@
-<img width="640" height="443" alt="image" src="https://github.com/user-attachments/assets/2d183693-b90f-4fdc-8df1-eee2ba9858a3" /><h1 align="center">Hi 👋, I'm SafeCircle!</h1>
+<h1 align="center">Hi 👋, I'm SafeCircle!</h1>
 <h3 align="center">Mainly working with the Game Maker Studio engine (lol)</h3>
 
 - 🎩 Other "skills" (can they be called like that?)<br> **FL Studio, (a bit) C++, Playing Piano, Pixel Art**
@@ -14,8 +14,8 @@
       align="center" 
       src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
       alt="frisk_and_freddy_fazbear._" 
-      height="30" 
-      width="40" 
+      height="30px" 
+      width="40px" 
     />
   </a>
   <!--------------------------------- YOUTUBE PAGE LINK ------------------------------->
@@ -24,8 +24,8 @@
       align="center" 
       src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" 
       alt="jazzybeing" 
-      height="30" 
-      width="40" 
+      height="30px" 
+      width="40px" 
     />
   </a>
 </p>
