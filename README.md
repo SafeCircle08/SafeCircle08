@@ -16,7 +16,7 @@
 <p float="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50px" /> </a>
   <a href="http://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" height="50px" /> </a>
-  <a href="http://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://static.macupdate.com/products/37306/m/gamemaker-studio-2-logo.png" alt="c" height="50px" /> </a>
+  <a href="http://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://sc.filehippo.net/images/t_app-icon-l/p/857aef91-1205-4de4-895b-125e66acb5b7/3172864888/game-maker-studio-2-icon.png" alt="c" height="50px" /> </a>
   
 </p>
 
