@@ -16,8 +16,15 @@
 <p float="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50px" /> </a>
   <a href="http://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" height="50px" /> </a>
+
   <a href="http://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
-    <img src="https://ih1.redbubble.net/image.1766829176.8591/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="c" height="50px" style="border-radius:50%;"/> 
+      <img 
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReflYD3bP9E2XvdDCU-8Z42M30Q43YWQjYxg&s" 
+        alt="c" 
+        height="50px" 
+      /> 
+  </a>
+  
   </a>
 </p>
 
