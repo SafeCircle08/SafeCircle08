@@ -63,6 +63,12 @@
         alt="GameMaker Studio 2" 
         height="50px" 
       /> 
+      <!--------------------------------- visual studio photo ------------------------------->
+      <img 
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" 
+        alt="Visual Studio" 
+        height="50px" 
+      /> 
       <!--------------------------------- FL studio photo ------------------------------->
       <img 
         src="https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/FL-Studio-12-Logo.png/250px-FL-Studio-12-Logo.png" 
