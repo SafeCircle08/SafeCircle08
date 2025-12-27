@@ -78,5 +78,4 @@
 </p>
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=safecircle08" />
 </p>
