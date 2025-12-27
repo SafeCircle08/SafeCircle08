@@ -78,6 +78,5 @@
 </p>
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SafeCircle08&show_icons=true&locale=en&theme=dark" width="48%" height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafeCircle08&layout=compact&theme=dark" width="48%" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=safecircle08" />
 </p>
